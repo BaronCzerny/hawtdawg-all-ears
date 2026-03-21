@@ -1,5 +1,3 @@
-# FAQ
+## Qué se puede hacer un sábado por la mañana
 
-## How many photos can I post?
-
-You can post up to 15 photos.
+Sube hasta 15 fotos.
